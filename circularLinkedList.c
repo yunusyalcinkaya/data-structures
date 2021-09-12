@@ -7,7 +7,6 @@ struct Node {
 };
 
 typedef struct Node node;
-
 node* root = NULL;
 
 void insertUnsorted(int d)
