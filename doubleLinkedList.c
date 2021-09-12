@@ -5,6 +5,7 @@
  * removing from list
  * printing list
  */
+ 
 #include<stdio.h>
 #include<stdlib.h>
 
