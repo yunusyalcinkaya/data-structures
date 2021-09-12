@@ -1,6 +1,7 @@
 //create queue with array
 
 #include<stdio.h>
+
 #define MAX 5
 
 void adjustQueue();
