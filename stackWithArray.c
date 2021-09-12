@@ -16,7 +16,6 @@ void push(int data)
 		printf("stack is full\n");
 		printf("--------------------\n");
 	}
-
 	else
 	{
 		top = top +1;
