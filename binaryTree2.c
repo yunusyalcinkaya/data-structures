@@ -2,6 +2,7 @@
 //preorder notation
 //postorder notation
 //inorder notation
+
 #include<stdio.h>
 #include<stdlib.h>
 
