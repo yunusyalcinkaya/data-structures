@@ -6,6 +6,7 @@ struct Node {
 	struct Node* next;
 };
 typedef struct Node node;
+
 node* root = NULL;
 
 void enQueue(int d)
