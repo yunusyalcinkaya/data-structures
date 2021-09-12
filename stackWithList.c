@@ -8,6 +8,7 @@ struct Node {
 	struct Node* link;
 };
 typedef struct Node node;
+
 node* top = NULL;// top = root
 
 //inserting to head
